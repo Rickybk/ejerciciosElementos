@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Lector
+comment1.params=nombre\ docId
+comment1.target=Lector(java.lang.String,\ java.lang.String)
+numComments=2
