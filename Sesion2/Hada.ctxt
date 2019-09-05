@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hada
+comment1.params=nombre\ edad
+comment1.target=Hada(java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ Participar()
+numComments=3

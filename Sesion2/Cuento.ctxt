@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cuento
+comment1.params=
+comment1.target=Cuento()
+comment2.params=
+comment2.target=void\ participarHada()
+comment3.params=
+comment3.target=void\ participarArbol()
+comment4.params=
+comment4.target=void\ participarAbeja()
+comment5.params=
+comment5.target=void\ participarLenador()
+numComments=6
