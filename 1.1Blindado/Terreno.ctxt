@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Terreno
+comment1.params=
+comment1.target=Terreno()
+comment2.params=
+comment2.target=void\ generarTanques()
+comment3.params=
+comment3.target=void\ generarTerreno()
+numComments=4
